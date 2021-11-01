@@ -7,7 +7,7 @@ from configparser import ConfigParser
 import time
 
 
-# The url link will be cast to a variable named 'url'
+# The url link is casted to a variable named 'url'
 url = "https://api.openweathermap.org/data/2.5/weather?q={}&appid={}"
 
 # Stores the api key id
