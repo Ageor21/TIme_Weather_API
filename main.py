@@ -76,7 +76,7 @@ def search():
         messagebox.showerror('Error', f'Can not find city {city}')
 
 
-# Starts the foreground off the application
+# Starts the foreground of the application
 weather_screen = tk.Tk()
 weather_screen.geometry('700x450')
 weather_screen.title('Weather Application')
